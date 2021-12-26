@@ -1,2 +1,2 @@
 # socksnewb
-Learning sockets from IBM
+Learning sockets
